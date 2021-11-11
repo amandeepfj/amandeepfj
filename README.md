@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amandeep Jiddewar
 - 👀 I’m interested in Applied statistics and Software engineering
 - 🌱 I’m currently learning `MLOps`
-- 💞️ I’m looking to collaborate on `R`
+- 💞️ I’m looking to collaborate on `python` and `R` projects
 - 📫 How to reach me jiddewar.amandeep@gmail.com
 
 <!---
